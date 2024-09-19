@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+body{
+    background: #e5e1e1;
+}
+ .box{
+width: 400px;
+height: 420px;
+background: white;
+border-radius: 30px;
+margin: 0 auto;
+margin-top: 80px;
+ }
+.image1{
+width: 400px;
+height; 220px;
+border: none;
+padding: 26px : border-radius: 50px;
+displays block;
+margin; 0 auto;
+}
+.login__text{
+color: rgb(68, 68, 130); 
+padding-left: 28px; 
+margin-bottom: 10px;
+}
+.login__text-lorem{
+font-size: 16px;
+padding-left: 28px; 
+color: rgb(68, 68, 130);
+margin-bottom: 20px;
+}
+.login__text-b{
+padding-left: 28px;
+color: rgb(93, 93, 152);
+}
+.login__btn{
+color: rgb(68, 68, 130);
+background: rgb(182, 194, 206);
+border-radius:6px;
+width: 70px;
+height: 30px;
+border: none;
+
+margin-left: 150px;
+
+}
